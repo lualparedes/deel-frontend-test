@@ -1,5 +1,7 @@
 # Deel Frontend Test
 
+![Peek into the app](./peek.gif)
+
 ## How to run
 
 ### Considerations
