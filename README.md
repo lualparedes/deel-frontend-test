@@ -6,7 +6,7 @@
 
 - Make sure that ports `5173` and `3000` are available.
 
-### Using Docker compose
+### Using Docker Compose
 
 1. Pull the Compose file [here](https://github.com/lualparedes/deel-devops-test)
 1. Run  `docker-compose up` while being in the same directory where you pulled the Compose file
