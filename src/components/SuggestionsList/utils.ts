@@ -7,5 +7,4 @@ export const getData = async (url: string): Promise<GetDataResult> => {
   } catch (error) {
     return { error: String(error) };
   }
-  return;
 };

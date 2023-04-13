@@ -2,7 +2,7 @@ import { createContext, ReactNode } from "react";
 
 import { AutocompleteInputContextValue } from "./types";
 
-const INITIAL_CONTEXT = ["", () => {}];
+const INITIAL_CONTEXT = ["", () => {}] as AutocompleteInputContextValue;
 
 export const AutocompleteInputContext =
   createContext<AutocompleteInputContextValue>(INITIAL_CONTEXT);
