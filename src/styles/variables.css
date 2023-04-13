@@ -1,0 +1,7 @@
+:root {
+  --main: #007bff;
+  --main-half: rgba(0, 123, 255, 0.25);
+  --main-quarter: rgba(0, 123, 255, 0.065);
+
+  --color-border: #ddd;
+}

@@ -1,0 +1,11 @@
+.suggestionsList {
+  background: #fff;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  overflow: hidden;
+}
+
+.suggestionsList__message {
+  padding: 16px;
+  display: block;
+}

@@ -1,0 +1,21 @@
+@import url("../../styles/variables.css");
+
+.suggestionsListItems {
+  list-style-type: none;
+}
+.suggestionsListItems__item {
+  border-bottom: 1px solid var(--color-border);
+  padding: 16px;
+}
+.suggestionsListItems__item:last-child {
+  border-bottom: 0;
+}
+.suggestionsListItems__item:hover {
+  background: var(--main-quarter);
+  cursor: pointer;
+}
+
+.message {
+  padding: 16px;
+  display: block;
+}

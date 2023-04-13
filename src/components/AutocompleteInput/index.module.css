@@ -1,0 +1,16 @@
+@import url("../../styles/variables.css");
+
+.input {
+  width: 100%;
+  padding: 8px;
+  border: 2px solid var(--color-border);
+  border-radius: 8px;
+}
+.input:focus {
+  border: 2px solid var(--main);
+  outline: 2px solid var(--main-half);
+}
+.input__searching {
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
